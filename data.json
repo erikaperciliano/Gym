@@ -1,0 +1,20 @@
+{
+  "instructors": [
+    {
+      "avatar_url": "http://google.com",
+      "name": "Washington Shasper",
+      "birth": "2020-07-07",
+      "gender": "M",
+      "services": "Teste1, Teste1",
+      "created_at": 1609986046915
+    },
+    {
+      "avatar_url": "http://google.com",
+      "name": "Alessandra peres",
+      "birth": 1595462400000,
+      "gender": "F",
+      "services": "Teste2, Teste2",
+      "created_at": 1609986195694
+    }
+  ]
+}
