@@ -2,10 +2,10 @@
   "instructors": [
     {
       "avatar_url": "http://google.com",
-      "birth": 468115200000,
+      "birth": null,
       "created_at": 1610814913634,
-      "id": 1,
-      "name": "Daniel Garcia",
+      "id": "1",
+      "name": "Daniel Garcia Rodrigues",
       "services": "Natação, Levantamento de peso",
       "gender": "M"
     },
