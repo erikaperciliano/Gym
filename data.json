@@ -1,4 +1,39 @@
 {
+  "members": [
+    {
+      "avatar_url": "https://images.unsplash.com/photo-1532384555668-bc0c32a17ffd?ixid=MXwxMjA3fDB8MHxzZWFyY2h8OTN8fHdvcmslMjBvdXR8ZW58MHx8MHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+      "birth": 698544000000,
+      "created_at": 1611161494797,
+      "id": 1,
+      "name": "Hugo Strayk",
+      "gender": "M",
+      "blood": "A+",
+      "weight": "180",
+      "height": "90",
+      "email": "hugo@strayk.com"
+    },
+    {
+      "avatar_url": "https://images.unsplash.com/photo-1546483875-ad9014c88eba?ixid=MXwxMjA3fDB8MHxzZWFyY2h8MjMyfHx3b3JrJTIwb3V0fGVufDB8fDB8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+      "name": "Marcela Dantas",
+      "email": "marcela@dantas.com",
+      "birth": 532828800000,
+      "gender": "F",
+      "blood": "A+",
+      "weight": "54345",
+      "height": "543534",
+      "id": 2
+    },
+    {
+      "avatar_url": "https://images.unsplash.com/photo-1541534741688-6078c6bfb5c5?ixid=MXwxMjA3fDB8MHxzZWFyY2h8MjM3fHx3b3JrJTIwb3V0fGVufDB8fDB8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+      "name": "Alice Keys",
+      "email": "alice@keys.com",
+      "birth": 708998400000,
+      "blood": "O-",
+      "weight": "60",
+      "height": "170",
+      "id": 3
+    }
+  ],
   "instructors": [
     {
       "avatar_url": "https://images.unsplash.com/photo-1592632789004-57d4354f2499?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=334&q=80",
@@ -11,7 +46,7 @@
     },
     {
       "avatar_url": "https://images.unsplash.com/photo-1591804671002-b24e17464f9b?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1534&q=80",
-      "birth": 788400000000,
+      "birth": 708998400000,
       "created_at": 1610816913719,
       "id": 2,
       "name": "Margarete Silvia",
