@@ -2,7 +2,7 @@
 
 {% block content %}
     <div class="card">
-        <section class="avatar" style="background: url(https://source.unsplash.com/collection/4836861/500x500) no-repeat center center / cover">
+        <section class="avatar" style="background: url({{instructor.avatar_url}}) no-repeat center center / cover">
         </section> 
 
         
@@ -19,6 +19,19 @@
               <input type="hidden" name="id" value={{instructor.id}}>
               <button type="submit">Delete</button>
             </form>
+
+            <script>
+              const formDelete = document.querySelector('#form-delete');
+
+              formDelete.addEventListener('submit', function(event){
+                const confirmation = confirm('Do you want to delete?');
+
+                if(!confirmation){
+                  event.preventDefault();
+                }
+              });
+            </script>
+            
           </section>
     </div>  
 {% endblock content %}
